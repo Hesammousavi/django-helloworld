@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-sokpy*q9_=6j-9mrh_l)*k+&im(xfbxz_8=&u536n@9s)9&*gv'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # A list of strings representing the host/domain names that this Django site can serve.
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
